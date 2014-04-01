@@ -13,7 +13,7 @@ using Microsoft.Phone.Controls;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json;
 
-namespace PhoneApp1
+namespace NHLGamesToday
 {
     public partial class MainPage : PhoneApplicationPage
     {
